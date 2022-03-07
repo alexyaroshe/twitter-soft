@@ -1,0 +1,4 @@
+username:password:email@outlook.com:email_password
+username:password:email@outlook.com:email_password
+username:password:email@outlook.com:email_password
+...

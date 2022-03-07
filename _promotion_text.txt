@@ -1,0 +1,3 @@
+ExamplePromotionTextVariation1
+...
+(Can add more variations if needed)

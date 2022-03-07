@@ -1,0 +1,1 @@
+Images for profile filling are stored in this folder.
